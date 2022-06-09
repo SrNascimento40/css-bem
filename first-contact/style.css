@@ -1,0 +1,17 @@
+.animals {
+    background-color: rgb(43, 1, 83);
+    color: aquamarine;
+}
+
+.animals__domestic {
+    color: beige;
+    padding: 15px;
+}
+
+.animals__domestic--i-have {
+    color: darkblue;
+}
+
+.animals__wild {
+    padding: 20px;
+}

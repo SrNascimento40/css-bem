@@ -1,0 +1,19 @@
+.users {
+    background-color: white;
+}
+
+.users__lista {
+    color: black;
+    font-size: 14px;
+}
+
+.users--active {
+    background-color: gray;
+    color: blue;
+    font-size: 14px;
+}
+
+.users-active--admin {
+    color: red;
+    font-size: 18px;
+}
